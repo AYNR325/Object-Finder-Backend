@@ -5,3 +5,4 @@ pygame
 pyttsx3
 ultralytics
 flask-cors
+gunicorn
