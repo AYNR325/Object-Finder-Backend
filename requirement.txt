@@ -1,0 +1,7 @@
+flask
+torch
+opencv-python
+pygame
+pyttsx3
+ultralytics
+flask-cors
